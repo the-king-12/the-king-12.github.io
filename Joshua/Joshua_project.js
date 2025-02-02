@@ -1671,11 +1671,11 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Joshua_project_atlas_1.png?1715562172769", id:"Joshua_project_atlas_1"},
-		{src:"sounds/Samuraiwav.mp3?1715562172818", id:"Samuraiwav"},
-		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1715562172818", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1715562172818", id:"sdk/anwidget.js"},
-		{src:"components/video/src/video.js?1715562172818", id:"an.Video"}
+		{src:"images/Joshua_project_atlas_1.png?1738468744755", id:"Joshua_project_atlas_1"},
+		{src:"sounds/Samuraiwav.mp3?1738468744884", id:"Samuraiwav"},
+		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1738468744884", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1738468744884", id:"sdk/anwidget.js"},
+		{src:"components/video/src/video.js?1738468744884", id:"an.Video"}
 	],
 	preloads: []
 };

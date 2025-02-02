@@ -1,0 +1,92 @@
+/* Insert codes for container */
+#container {
+max-width: 1000px;
+background-color: lightcyan;
+font-family: Arial, Helvetica, sans-serif;
+margin: auto;
+
+}
+
+/* Insert codes for header */
+#header img {
+  width: 100%;height: 50%;
+  display: block;
+}
+
+/* Insert codes for nav */
+#nav{
+ display: flex;  
+ align-items: center;
+ font-size: 20px;
+ background-color: rgb(227, 238, 219);
+    
+
+}
+
+#nav div{
+margin: 20px;
+font-weight: bolder;
+}
+
+#nav a {
+  color: rgb(80, 57, 14);
+  text-decoration: none;
+}
+
+
+#nav ul {
+list-style-type: none;
+margin: 10;
+}
+
+#nav li {
+float: left;
+margin-right: 30px;
+text-align: center;
+color: rgb(17, 12, 1);
+}
+
+/* Insert codes for article */
+#article {
+	padding: 0 20px;
+}
+
+/* Insert codes for thumbnail */
+#thumbnail {
+	display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    justify-content: center;
+}
+
+#thumbnail div{
+    min-width: 250px;
+    flex: 1;
+    margin: 15px;
+}
+
+#thumbnail img{
+   width: 20%;
+   padding: 5px;
+}
+
+/* Insert codes for footer */
+#footer {
+   background-color: grey; 
+   font-weight: bolder;
+   font-size: 15px;
+   padding: 10px;
+   text-align: center;
+   color: wheat;
+}
+#footer a {
+      color: azure; 
+      text-decoration: none;
+}
+
+
+
+
+

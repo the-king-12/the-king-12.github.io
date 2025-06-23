@@ -1,0 +1,99 @@
+﻿{"frames": {
+
+"CachedBmp_1":
+{
+	"frame": {"x":0,"y":642,"w":684,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":684,"h":160},
+	"sourceSize": {"w":684,"h":160}
+},
+"CachedBmp_10":
+{
+	"frame": {"x":526,"y":804,"w":124,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":35},
+	"sourceSize": {"w":124,"h":35}
+},
+"CachedBmp_2":
+{
+	"frame": {"x":202,"y":910,"w":502,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":35},
+	"sourceSize": {"w":502,"h":35}
+},
+"CachedBmp_3":
+{
+	"frame": {"x":0,"y":906,"w":200,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":100},
+	"sourceSize": {"w":200,"h":100}
+},
+"CachedBmp_4":
+{
+	"frame": {"x":364,"y":804,"w":160,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":35},
+	"sourceSize": {"w":160,"h":35}
+},
+"CachedBmp_5":
+{
+	"frame": {"x":0,"y":804,"w":200,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":100},
+	"sourceSize": {"w":200,"h":100}
+},
+"CachedBmp_6":
+{
+	"frame": {"x":202,"y":804,"w":160,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":35},
+	"sourceSize": {"w":160,"h":35}
+},
+"CachedBmp_7":
+{
+	"frame": {"x":686,"y":776,"w":172,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":132},
+	"sourceSize": {"w":172,"h":132}
+},
+"CachedBmp_8":
+{
+	"frame": {"x":202,"y":841,"w":124,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":35},
+	"sourceSize": {"w":124,"h":35}
+},
+"CachedBmp_9":
+{
+	"frame": {"x":686,"y":642,"w":172,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":132},
+	"sourceSize": {"w":172,"h":132}
+},
+"sunrise8901014_1280":
+{
+	"frame": {"x":0,"y":0,"w":1280,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":640},
+	"sourceSize": {"w":1280,"h":640}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.4.28",
+	"image": "S4_2_Eddy_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}

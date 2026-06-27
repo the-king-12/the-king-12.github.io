@@ -1,0 +1,75 @@
+﻿{"frames": {
+
+"CachedBmp_1":
+{
+	"frame": {"x":868,"y":1026,"w":252,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":138},
+	"sourceSize": {"w":252,"h":138}
+},
+"CachedBmp_2":
+{
+	"frame": {"x":918,"y":1166,"w":117,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":48},
+	"sourceSize": {"w":117,"h":48}
+},
+"CachedBmp_3":
+{
+	"frame": {"x":614,"y":1026,"w":252,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":138},
+	"sourceSize": {"w":252,"h":138}
+},
+"CachedBmp_4":
+{
+	"frame": {"x":799,"y":1166,"w":117,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":48},
+	"sourceSize": {"w":117,"h":48}
+},
+"CachedBmp_5":
+{
+	"frame": {"x":1122,"y":1026,"w":232,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":232,"h":148},
+	"sourceSize": {"w":232,"h":148}
+},
+"CachedBmp_6":
+{
+	"frame": {"x":614,"y":1166,"w":183,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":114},
+	"sourceSize": {"w":183,"h":114}
+},
+"Four_wolves_playing_in_sunlightremovebgpreview":
+{
+	"frame": {"x":0,"y":1026,"w":612,"h":408},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":612,"h":408},
+	"sourceSize": {"w":612,"h":408}
+},
+"Serenewoodlandpathatsunrise":
+{
+	"frame": {"x":0,"y":0,"w":1536,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1536,"h":1024},
+	"sourceSize": {"w":1536,"h":1024}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.5.40",
+	"image": "Farish2 project_atlas_4.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

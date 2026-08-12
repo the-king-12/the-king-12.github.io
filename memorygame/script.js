@@ -4,7 +4,7 @@ const resetButton = document.getElementById('resetButton');
 
 // Array of card values (pairs)
 const cardValues = [ //step 1
-  '/images/image-1.jpeg', '/images/image-2.jpeg', '/images/image-3.jpeg', '/images/image-4.jpeg','/images/image-5.jpeg',
+  'images/image-1.jpeg', 'images/image-2.jpeg', 'images/image-3.jpeg', 'images/image-4.jpeg','images/image-5.jpeg',
   'images/image-6.jpeg', 'images/image-7.jpeg', 'images/image-8.jpeg', 'images/image-9.jpeg','images/image-10.jpeg',
   'images/image-11.jpeg', 'images/image-12.jpeg', 'images/image-13.jpeg', 'images/image-14.jpeg','images/image-15.jpeg',
   'images/image-16.jpeg', 'images/image-17.jpeg', 'images/image-18.jpeg','images/image-19.jpeg','images/image-20.jpeg',
